@@ -1,8 +1,8 @@
 baseURL = "https://www.jeitodelicado.com.br"
 title = "jeito delicado"
 theme = "hugo-coder"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
 paginate = 6
 enableEmoji = true
 # Enable Disqus comments
@@ -208,12 +208,12 @@ keywords = "blog,desenvolvedor,pessoal"
 #weight = 2
 #url = "posts/"
 
-#[[languages.pt-br.menu.main]]
-#name = "Projetos"
-#weight = 3
-#url = "projects/"
+[[languages.pt-br.menu.main]]
+name = "Projetos"
+weight = 3
+url = "projects/"
 
-#[[languages.pt-br.menu.main]]
-#name = "Contato"
-#weight = 5
-#url = "contact/"
+[[languages.pt-br.menu.main]]
+name = "Contato"
+weight = 5
+url = "contact/"
