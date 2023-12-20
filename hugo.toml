@@ -198,20 +198,20 @@ description = "Jeito Delicado personal website"
 keywords = "blog,developer,personal"
 info = ["Desfrute do poder que vem da feminilidade"]
 
-#[[languages.pt-br.menu.main]]
-#name = "Sobre"
-#weight = 1
-#url = "about/"
+[[languages.pt-br.menu.main]]
+name = "Sobre"
+weight = 1
+url = "about/"
 
 #[[languages.pt-br.menu.main]]
 #name = "Blog"
 #weight = 2
 #url = "posts/"
 
-[[languages.pt-br.menu.main]]
-name = "Projetos"
-weight = 3
-url = "projects/"
+#[[languages.pt-br.menu.main]]
+#name = "Projetos"
+#weight = 3
+#url = "projects/"
 
 [[languages.pt-br.menu.main]]
 name = "Contato"
